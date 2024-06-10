@@ -1,7 +1,7 @@
 def cetak_gambar(panjang):
     
     if panjang % 2 == 0:
-        print("Panjang harus merupakan bilangan ganjil.")
+        print("Panjang harus merupakan bilangan ganjil")
         return
     
     for i in range(panjang):
